@@ -1,1 +1,1 @@
-# CUDA_particle_swarm_optimization
+CUDA versions of the Particle Swarm Optimization metaheuristic applied to the multidimensional knapsack problem.

@@ -1,0 +1,5 @@
+c1, c2, w, penalty, epochs
+0.670175,0.935928,1,0,600
+intacia, melhor_gap, melhor_fit, gap_medio, fit_medio, fobj_medio, dp, tempo(ms)
+data\sac94\hp\hp1.dat, 9, 0, 3418, 0.589039, 3397.87, 3397.87, 0.521327, 1316
+data\sac94\hp\hp2.dat, 0, 0.659134, 3165, 3.16803, 3085.07, 3085.07, 0.850974, 1761

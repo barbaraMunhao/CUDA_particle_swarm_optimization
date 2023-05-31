@@ -1,0 +1,19 @@
+c1, c2, w, penalty, epochs
+0.601321,1.79865,1,329.594,600
+intacia,nOpt,melhor_gap, melhor_fit, gap_medio, fit_medio, fobj_medio, dp, tempo(ms)
+data\sac94\pet\pet2.dat, 30, 0, 87061, 0, 87061, 87061, 0, 504
+data\sac94\pet\pet3.dat, 30, 0, 4015, 0, 4015, 4015, 0, 822
+data\sac94\pet\pet4.dat, 0, 0.163399, 6110, 0.163399, 6110, 6110, 2.98023e-08, 1274
+data\sac94\pet\pet5.dat, 0, 0.16129, 12380, 0.225806, 12372, 12372, 0.0940476, 1827
+data\sac94\pet\pet6.dat, 0, 0.150688, 10602, 1.03535, 10508.1, 10508.1, 0.459309, 2298
+data\sac94\pet\pet7.dat, 0, 0.69541, 16422, 1.56356, 16278.4, 16278.4, 0.412763, 2680
+
+c1, c2, w, penalty, epochs
+0.670175,0.935928,1,329.594,600
+intacia,nOpt,melhor_gap, melhor_fit, gap_medio, fit_medio, fobj_medio, dp, tempo(ms)
+data\sac94\pet\pet2.dat, 30, 0, 87061, 0, 87061, 87061, 0, 503
+data\sac94\pet\pet3.dat, 30, 0, 4015, 0, 4015, 4015, 0, 816
+data\sac94\pet\pet4.dat, 0, 0.163399, 6110, 0.163399, 6110, 6110, 2.98023e-08, 1306
+data\sac94\pet\pet5.dat, 0, 0.16129, 12380, 0.223118, 12372.3, 12372.3, 0.119041, 1860
+data\sac94\pet\pet6.dat, 0, 0.291957, 10587, 1.18918, 10491.7, 10491.7, 0.38414, 2091
+data\sac94\pet\pet7.dat, 0, 0.356776, 16478, 1.55873, 16279.2, 16279.2, 0.486549, 2756

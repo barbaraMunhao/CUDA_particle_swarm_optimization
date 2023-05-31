@@ -1,0 +1,9 @@
+c1, c2, w, penalty, epochs
+0.601321,1.79865,1,0,600
+intacia,nOpt,melhor_gap, melhor_fit, gap_medio, fit_medio, fobj_medio, dp, tempo(ms)
+data\sac94\pet\pet2.dat, 30, 0, 87061, 0, 87061, 87061, 0, 512
+data\sac94\pet\pet3.dat, 30, 0, 4015, 0, 4015, 4015, 0, 863
+data\sac94\pet\pet4.dat, 30, 0, 6120, 0, 6120, 6120, 0, 1325
+data\sac94\pet\pet5.dat, 16, 0, 12400, 0.0725807, 12391, 12391, 0.100618, 2136
+data\sac94\pet\pet6.dat, 0, 0.122434, 10605, 0.866767, 10526, 10526, 0.49996, 2555
+data\sac94\pet\pet7.dat, 0, 0.193505, 16505, 1.38961, 16307.2, 16307.2, 0.543722, 3500

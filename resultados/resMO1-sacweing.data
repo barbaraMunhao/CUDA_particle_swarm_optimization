@@ -1,0 +1,23 @@
+c1, c2, w, penalty, epochs
+0.601321,1.79865,1,329.594,600
+intacia,nOpt,melhor_gap, melhor_fit, gap_medio, fit_medio, fobj_medio, dp, tempo(ms)
+data\sac94\weing\weing1.dat, 26, 0, 141278, 0.0339284, 141230, 141230, 0.111672, 1207
+data\sac94\weing\weing2.dat, 27, 0, 130883, 0.0290336, 130845, 130845, 0.120909, 1450
+data\sac94\weing\weing3.dat, 15, 0, 95677, 0.343447, 95348.4, 95348.4, 0.593677, 1215
+data\sac94\weing\weing4.dat, 19, 0, 119337, 0.366832, 118899, 118899, 0.724801, 1248
+data\sac94\weing\weing5.dat, 25, 0, 98796, 0.0414997, 98755, 98755, 0.0970275, 1231
+data\sac94\weing\weing6.dat, 0, 0.298569, 130233, 0.29959, 130232, 130232, 0.00326799, 1236
+data\sac94\weing\weing7.dat, 0, 0.0419008, 1.09499e+06, 3.98731, 1.05177e+06, 1.05177e+06, 2.51364, 6665
+data\sac94\weing\weing8.dat, 0, 4.03768, 599111, 11.4886, 552593, 552593, 3.73051, 6674
+
+c1, c2, w, penalty, epochs
+0.670175,0.935928,1,329.594,600
+intacia,nOpt,melhor_gap, melhor_fit, gap_medio, fit_medio, fobj_medio, dp, tempo(ms)
+data\sac94\weing\weing1.dat, 24, 0, 141278, 0.0118443, 141261, 141261, 0.0310535, 1223
+data\sac94\weing\weing2.dat, 26, 0, 130883, 0.0234561, 130852, 130852, 0.067919, 1268
+data\sac94\weing\weing3.dat, 12, 0, 95677, 0.343099, 95348.7, 95348.7, 0.700783, 1434
+data\sac94\weing\weing4.dat, 17, 0, 119337, 0.573083, 118653, 118653, 1.00629, 1258
+data\sac94\weing\weing5.dat, 26, 0, 98796, 0.0317152, 98764.7, 98764.7, 0.0960506, 1274
+data\sac94\weing\weing6.dat, 0, 0.298569, 130233, 0.302907, 130227, 130227, 0.0151423, 1254
+data\sac94\weing\weing7.dat, 0, 0.300152, 1.09216e+06, 5.07836, 1.03981e+06, 1.03981e+06, 2.31859, 6643
+data\sac94\weing\weing8.dat, 0, 1.52823, 614778, 9.43044, 565443, 565443, 4.02698, 6911

@@ -1,0 +1,5 @@
+c1, c2, w, penalty, epochs
+0.670175,0.935928,1,0,600
+intacia,nOpt,melhor_gap, melhor_fit, gap_medio, fit_medio, fobj_medio, dp, tempo(ms)
+data\sac94\sento\sento1.dat, 1, 0, 7772, 2.79636, 7554.67, 7554.67, 1.37969, 6080
+data\sac94\sento\sento2.dat, 0, 0.206375, 8704, 2.38898, 8513.63, 8513.63, 1.09195, 5888

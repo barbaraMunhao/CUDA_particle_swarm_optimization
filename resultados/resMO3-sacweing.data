@@ -1,0 +1,11 @@
+c1, c2, w, penalty, epochs
+0.670175,0.935928,1,0,600
+intacia,nOpt,melhor_gap, melhor_fit, gap_medio, fit_medio, fobj_medio, dp, tempo(ms)
+data\sac94\weing\weing1.dat, 28, 0, 141278, 0.0143924, 141258, 141258, 0.064576, 1220
+data\sac94\weing\weing2.dat, 28, 0, 130883, 0.0122247, 130867, 130867, 0.0483866, 1239
+data\sac94\weing\weing3.dat, 14, 0, 95677, 0.156952, 95526.8, 95526.8, 0.291336, 1273
+data\sac94\weing\weing4.dat, 20, 0, 119337, 0.352224, 118917, 118917, 0.676466, 1229
+data\sac94\weing\weing5.dat, 25, 0, 98796, 0.0388005, 98757.7, 98757.7, 0.0894925, 1361
+data\sac94\weing\weing6.dat, 20, 0, 130623, 0.0995231, 130493, 130493, 0.140747, 1229
+data\sac94\weing\weing7.dat, 0, 0.0532204, 1.09486e+06, 5.75006, 1.03246e+06, 1.03246e+06, 2.03733, 6624
+data\sac94\weing\weing8.dat, 0, 2.65489, 607744, 11.0772, 555162, 555162, 4.75685, 6458

@@ -1,0 +1,11 @@
+c1, c2, w, penalty, epochs
+0.601321,1.79865,1,329.594,600
+intacia,nOpt,melhor_gap, melhor_fit, gap_medio, fit_medio, fobj_medio, dp, tempo(ms)
+data\sac94\hp\hp1.dat, 0, 0.46811, 3402, 0.975229, 3384.67, 3384.67, 0.456403, 1318
+data\sac94\hp\hp2.dat, 0, 1.91463, 3125, 3.42226, 3076.97, 3076.97, 0.91216, 1731
+
+c1, c2, w, penalty, epochs
+0.670175,0.935928,1,329.594,600
+intacia,nOpt,melhor_gap, melhor_fit, gap_medio, fit_medio, fobj_medio, dp, tempo(ms)
+data\sac94\hp\hp1.dat, 0, 0.46811, 3402, 1.10981, 3380.07, 3380.07, 0.567308, 1340
+data\sac94\hp\hp2.dat, 0, 0.659134, 3165, 3.22557, 3083.23, 3083.23, 1.18181, 1896
