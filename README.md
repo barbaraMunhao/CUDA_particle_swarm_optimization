@@ -1,1 +1,1 @@
-# gpu_particle_swarm_optimization
+# CUDA_particle_swarm_optimization
